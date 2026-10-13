@@ -19,14 +19,14 @@ I deploy AI in healthcare organizations and take ownership of the technical side
 
 ### 🧭 What I do
 
-- **AI for your team** — choosing the right provider and plan, user management, governance and custom skills. I run it, your team uses it.
-- **AI & data in R&D projects** — end-to-end: design, development, validation, deployment and monitoring.
-- **Automation for independent professionals** — finding what you repeat every week and automating it, no IT department needed.
+- **AI for your team**: choosing the right provider and plan, user management, governance and custom skills. I run it, your team uses it.
+- **AI & data in R&D projects**: end-to-end design, development, validation, deployment and monitoring.
+- **Automation for independent professionals**: finding what you repeat every week and automating it, no IT department needed.
 
 ### 🔬 Selected work
 
-- **AI governance & agents for 200+ users** at Pivotal (CRO) — system registry, risk tiers and a lightweight approval process. The agents I built are part of daily work across every department.
-- **Security audit of a European patient chatbot** — found a vulnerability in an assistant used by real patients, disclosed it privately, it was fixed, and the analysis was published in *NEJM AI*.
+- **AI governance & agents for 200+ users** at Pivotal (CRO): system registry, risk tiers and a lightweight approval process. The agents I built are part of daily work across every department.
+- **Security audit of a European patient chatbot**: found a vulnerability in an assistant used by real patients, disclosed it privately, it was fixed, and the analysis was published in *NEJM AI*.
 - **5+ EU digital health projects** (H2020 / IHI, e.g. BEAMER, IMPROVE) as Technical Project Manager & AI Research Engineer.
 - Research in *IEEE JBHI* and *International Journal of Medical Informatics* · **3 research awards**, including IEEE-EMBS BHI 2024.
 
@@ -42,8 +42,8 @@ LLM agents · RAG · AI governance & regulatory compliance in healthcare · Synt
 
 ### 🎓 Background
 
-- PhD candidate in Biomedical Engineering — Universidad Politécnica de Madrid (LST)
-- MSc in Applied AI — UC3M · BSc in Biomedical Engineering — UPM
+- PhD candidate in Biomedical Engineering, Universidad Politécnica de Madrid (LST)
+- MSc in Applied AI, UC3M · BSc in Biomedical Engineering, UPM
 - Lecturer at UPM and Tecnológico de Monterrey
 
 ### 📫 Let's talk
